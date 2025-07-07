@@ -96,7 +96,7 @@ https://github.com/kauefreitasR/Analisador_TCP.git
 
 2. Open the project in NetBeans
 
-3. Compile and run the main class (usually `Main.java` or equivalent)
+3. Compile and run the main class (`Interface_e_Funcionamento_Geral`)
 
 4. Use the graphical interface to test different IPs and masks
 
