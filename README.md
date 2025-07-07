@@ -30,12 +30,12 @@ Projeto educacional voltado para estudantes e entusiastas da área de redes de c
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/SeuUsuario/calculadora-tcp.git
+https://github.com/kauefreitasR/Analisador_TCP.git
 ```
 
 2. Abra o projeto no NetBeans
 
-3. Compile e execute o arquivo principal (geralmente `Main.java` ou equivalente)
+3. Compile e execute o arquivo principal (`Interface_e_Funcionamento_Geral`)
 
 4. Use a interface para testar diferentes IPs e máscaras
 
@@ -45,8 +45,7 @@ Esse projeto foi criado como forma de fixar e aplicar os conceitos de redes de c
 
 ### 🧪 Próximas melhorias
 
-* [ ] Validação de entradas com feedback na interface
-* [ ] Exportação dos resultados em PDF
+* [ ] Exportação dos resultados em txt, pdf e outros
 * [ ] Modo escuro
 * [ ] Suporte a endereços IPv6
 * [ ] Visualização gráfica da divisão de sub-redes
@@ -92,7 +91,7 @@ An educational project for students and networking enthusiasts. This Java applic
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/tcp-calculator.git
+https://github.com/kauefreitasR/Analisador_TCP.git
 ```
 
 2. Open the project in NetBeans
@@ -107,8 +106,7 @@ This project was created as a way to apply and reinforce computer networking con
 
 ### 🧪 Future Improvements
 
-* [ ] Input validation with user feedback
-* [ ] Export results to PDF
+* [ ] Export results to PDF, TXT, and others
 * [ ] Dark mode
 * [ ] IPv6 support
 * [ ] Visual representation of subnet divisions
