@@ -45,10 +45,13 @@ Esse projeto foi criado como forma de fixar e aplicar os conceitos de redes de c
 
 ### 🧪 Próximas melhorias
 
+* [ ] Aplicação com Spring Framework 
+* [ ] Interface com React e JavaScript (para melhor UX e UI)
 * [ ] Exportação dos resultados em txt, pdf e outros
 * [ ] Modo escuro
 * [ ] Suporte a endereços IPv6
 * [ ] Visualização gráfica da divisão de sub-redes
+* [ ] Hospedagem Web
 
 ### 📚 Aprendizados com o projeto
 
@@ -56,6 +59,7 @@ Esse projeto foi criado como forma de fixar e aplicar os conceitos de redes de c
 * Desenvolvimento de interfaces gráficas em Java
 * Aplicação de lógica condicional e binária
 * Integração entre front-end (Swing) e back-end em Java
+* Springboot, React, JavaScript 
 
 ---
 
@@ -106,10 +110,13 @@ This project was created as a way to apply and reinforce computer networking con
 
 ### 🧪 Future Improvements
 
+* [ ] Spring Framework Aplication
+* [ ] Interface with React and JavaScript (for better UI and UX)
 * [ ] Export results to PDF, TXT, and others
 * [ ] Dark mode
 * [ ] IPv6 support
 * [ ] Visual representation of subnet divisions
+* [ ] Web Hosting
 
 ### 📚 Learning Outcomes
 
