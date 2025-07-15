@@ -124,3 +124,4 @@ This project was created as a way to apply and reinforce computer networking con
 * GUI development in Java using Swing
 * Binary manipulation and conditional logic
 * Integration between front-end (Swing) and Java back-end
+* Springboot, React, JavaScript
